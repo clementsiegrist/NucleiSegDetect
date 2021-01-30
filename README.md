@@ -4,7 +4,9 @@
 
 **Author :** *Clément Siegrist*
 
-Nuclei detection and counting as well as the retrieval of their characteristics. This represent a full process from detecting and segmentating the spots to counting them with the help of various preprocessing algorithms. 
+Nuclei detection and counting as well as the retrieval of their characteristics. This represent a full process from detecting and segmentating the spots to counting them with the help of various preprocessing algorithms.
+
+## Outline
 
 **I. Segmentation with Deep Learning**
 
