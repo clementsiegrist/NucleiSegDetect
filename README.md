@@ -1,5 +1,4 @@
-# Spot_Detector
-## Nuclei segmentation and counting with Unet and postprocessing with thresholding, erosion, dilatation, Active Contours and Blob detection algorithms.
+# Nuclei segmentation and counting with Unet and postprocessing with thresholding, erosion, dilatation, Active Contours and Blob detection algorithms.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clementsiegrist/spot_detector/blob/main/Last_and_least.ipynb)
 
 **Author :** *Clément Siegrist*
